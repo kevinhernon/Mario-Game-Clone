@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9C207565-8B05-A778-AA49-E8CD53562E7D}</ProjectGuid>
+    <ProjectGuid>{31D3FF65-574E-F3D2-5D41-1C92D9615C2D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,9 +56,13 @@
     <Compile Include="Assets\Scripts\QuestionBlock.cs" />
     <Compile Include="Assets\Scripts\EnemyAI.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\Hole.cs" />
     <Compile Include="Assets\Scripts\Castle.cs" />
-    <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\projectileFire.cs" />
     <Compile Include="Assets\Scripts\DogPlayer.cs" />
+    <Compile Include="Assets\Scripts\TestClass.cs" />
+    <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\rotateProjectile.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -661,47 +665,47 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InternalAPIEngineBridge.001.csproj">
-      <Project>{50D63195-6944-B95F-8C34-7D461BE8EAA9}</Project>
+      <Project>{2E5563C6-3A48-83A1-1439-73267DA11B57}</Project>
       <Name>Unity.InternalAPIEngineBridge.001</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.PixelPerfect.csproj">
-      <Project>{DD10DFB3-9C79-3113-88A3-21D3DE0D5706}</Project>
+      <Project>{5FE91329-DFC9-BF16-48A7-6254A7733AF9}</Project>
       <Name>Unity.2D.PixelPerfect</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{753DFB78-EC28-EC0A-994E-C1602C2D8507}</Project>
+      <Project>{8A7C8F8A-799E-71E7-C9B3-272EB7E70D41}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{556C8B0A-C41A-08AE-50F3-DE8B48F2574C}</Project>
+      <Project>{4AF829ED-FA1D-E5BA-DDBC-EB4B3EE8452A}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{ACF3F1CD-3186-A292-F600-79DF7121D811}</Project>
+      <Project>{B26B5DD3-2F83-2896-0DBF-D092BCBD5ECA}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{34D4E205-5EDE-D597-95C7-EBD523CB7FB1}</Project>
+      <Project>{2190FF34-24AD-B836-EC3C-618B0E7C7C86}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.IK.Runtime.csproj">
-      <Project>{0414CACF-408A-B607-3F86-BE09CA9CC095}</Project>
+      <Project>{D060012F-C43D-725B-605B-2A8038CE70BF}</Project>
       <Name>Unity.2D.IK.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Triangle.Runtime.csproj">
-      <Project>{966AD619-7CE1-6207-CCBF-92DCAF9651B3}</Project>
+      <Project>{0D37441B-2E96-0367-0EE0-68F6C5DB2F48}</Project>
       <Name>Unity.2D.Animation.Triangle.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Runtime.csproj">
-      <Project>{9709D460-7EDE-3418-957F-E6E0A5AD20FF}</Project>
+      <Project>{C6B3660A-AAF0-08A1-886C-42C9C6CFFE9C}</Project>
       <Name>Unity.2D.Animation.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Common.Runtime.csproj">
-      <Project>{D17F65AF-31B9-CB0F-7B82-05C94699F1EF}</Project>
+      <Project>{36500509-2914-FA68-9717-E32F6EF4026D}</Project>
       <Name>Unity.2D.Common.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.SpriteShape.Runtime.csproj">
-      <Project>{708C1CE9-3A2B-7942-AABC-DD9EB51144E6}</Project>
+      <Project>{6F3831FF-2F45-EFF8-0564-9E9D64871BB8}</Project>
       <Name>Unity.2D.SpriteShape.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
