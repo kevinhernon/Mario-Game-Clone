@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 9580702}
   - component: {fileID: 6151052}
   - component: {fileID: 5094680}
+  - component: {fileID: -8643267062956597255}
   m_Layer: 9
   m_Name: Enemy
   m_TagString: Enemy
@@ -29,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 124218}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 10, y: -4.5, z: -1.7}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -151,3 +152,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
+--- !u!114 &-8643267062956597255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 820f135eaaad05c48bf8dce808eb4216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gravity: 0
+  velocity: {x: 0, y: 0}
+  isWalkingLeft: 1
+  floorMask:
+    serializedVersion: 2
+    m_Bits: 0
+  wallMask:
+    serializedVersion: 2
+    m_Bits: 0
+  scaling: 2
+  timeBeforeDestroy: 1

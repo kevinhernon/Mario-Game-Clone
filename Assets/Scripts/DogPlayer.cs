@@ -14,7 +14,7 @@ public class DogPlayer : MonoBehaviour
     public GameObject projectile;
     public float projectileSpeed;
     private bool walk, walk_left, walk_right, jump;
-    public float PlayerScale;
+    public float scaling;
     public enum PlayerState {
         jumping, idle, walking, bouncing
     }
@@ -100,9 +100,9 @@ public class DogPlayer : MonoBehaviour
 
     }
     Vector3 CheckWallRays (Vector3 pos, float direction){
-        Vector2 originTop = new Vector2(pos.x + direction * .4f, pos.y + 1f - 0.2f);
-        Vector2 originMiddle = new Vector2(pos.x + direction * .4f, pos.y);
-        Vector2 originBottom = new Vector2(pos.x + direction * .4f, pos.y - 1f + 0.2f);
+        Vector2 originTop = new Vector2(pos.x + direction * .5f * scaling , pos.y + 1f - 0.2f);
+        Vector2 originMiddle = new Vector2(pos.x + direction * .5f * scaling, pos.y);
+        Vector2 originBottom = new Vector2(pos.x + direction * .5f * scaling, pos.y - 1f + 0.2f);
         RaycastHit2D wallTop = Physics2D.Raycast(originTop, new Vector2(direction, 0), velocity.x * Time.deltaTime, wallMask);
         RaycastHit2D wallMiddle = Physics2D.Raycast(originMiddle, new Vector2(direction, 0), velocity.x * Time.deltaTime, wallMask);
         RaycastHit2D wallBottom = Physics2D.Raycast(originBottom, new Vector2(direction, 0), velocity.x * Time.deltaTime, wallMask);
@@ -115,9 +115,9 @@ public class DogPlayer : MonoBehaviour
         return pos;
     }
     Vector3 CheckFloorRays (Vector3 pos){
-        Vector2 originLeft = new Vector2(pos.x - 0.5f + 0.2f, pos.y - 1f);
-        Vector2 originMiddle = new Vector2(pos.x, pos.y - 1.2f);
-        Vector2 originRight = new Vector2(pos.x + 0.5f - 0.2f, pos.y - 1f);
+        Vector2 originLeft = new Vector2(pos.x - 0.5f * scaling + 0.2f, pos.y - 1f);
+        Vector2 originMiddle = new Vector2(pos.x, pos.y - 1f);
+        Vector2 originRight = new Vector2(pos.x + 0.5f * scaling - 0.2f, pos.y - 1f);
         RaycastHit2D floorLeft = Physics2D.Raycast(originLeft, Vector2.down, velocity.y * Time.deltaTime, floorMask);
         RaycastHit2D floorMiddle = Physics2D.Raycast(originMiddle, Vector2.down, velocity.y * Time.deltaTime, floorMask);
         RaycastHit2D floorRight = Physics2D.Raycast(originRight, Vector2.down, velocity.y * Time.deltaTime, floorMask);
@@ -149,9 +149,9 @@ public class DogPlayer : MonoBehaviour
     }
 
     Vector3 CheckCeilingRays (Vector3 pos){
-        Vector2 originLeft = new Vector2(pos.x - 0.5f + 0.2f, pos.y + 1f);
+        Vector2 originLeft = new Vector2(pos.x - (0.5f * scaling)  , pos.y + 1f);
         Vector2 originMiddle = new Vector2(pos.x, pos.y + 1f);
-        Vector2 originRight = new Vector2(pos.x + 0.5f - 0.2f, pos.y + 1f);
+        Vector2 originRight = new Vector2(pos.x + (0.5f * scaling) - 0.2f, pos.y + 1f);
         RaycastHit2D ceilLeft = Physics2D.Raycast(originLeft, Vector2.up, velocity.y * Time.deltaTime, floorMask);
         RaycastHit2D ceilMiddle = Physics2D.Raycast(originMiddle, Vector2.up, velocity.y * Time.deltaTime, floorMask);
         RaycastHit2D ceilRight = Physics2D.Raycast(originRight, Vector2.up, velocity.y * Time.deltaTime, floorMask);

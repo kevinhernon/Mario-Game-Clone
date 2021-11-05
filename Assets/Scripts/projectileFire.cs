@@ -7,6 +7,9 @@ public class projectileFire : MonoBehaviour
     public float lifeSpan = 2f;
     private Collider2D collision;
     // Start is called before the first frame update
+    private void Start(){
+        Destroy(gameObject, lifeSpan);
+    }
     private void OnTriggerEnter2D(Collider2D collision){
         Debug.Log(collision.name);
         if (collision.tag == "Enemy"){
@@ -17,5 +20,6 @@ public class projectileFire : MonoBehaviour
             Destroy(collision.gameObject);
             Destroy(gameObject);
         }
+
     }
 }
