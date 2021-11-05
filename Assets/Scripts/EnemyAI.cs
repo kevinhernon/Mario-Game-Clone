@@ -14,6 +14,7 @@ public class EnemyAI : MonoBehaviour
 
     private bool shouldDie = false;
     private float deathTimer = 0;
+    public float scaling;
 
     public float timeBeforeDestroy = 1.0f;
 
@@ -32,7 +33,7 @@ public class EnemyAI : MonoBehaviour
 
         enabled = false;
 
-        Fall();
+        //Fall();
     }
 
     // Update is called once per frame
@@ -91,13 +92,13 @@ public class EnemyAI : MonoBehaviour
                 {
                     pos.x -= velocity.x * Time.deltaTime;
 
-                    scale.x = -1;
+                    scale.x = -scaling;
                 }
                 else
                 {
                     pos.x += velocity.x * Time.deltaTime;
 
-                    scale.x = 1;
+                    scale.x = scaling;
                 }
             }
 
@@ -113,18 +114,19 @@ public class EnemyAI : MonoBehaviour
 
     Vector3 CheckGround(Vector3 pos)
     {
-        Vector2 originLeft = new Vector2(pos.x - 0.5f + 0.2f, pos.y - .5f);
-        Vector2 originMiddle = new Vector2(pos.x, pos.y - .5f);
-        Vector2 originRight = new Vector2(pos.x + 0.5f - 0.2f, pos.y - .5f);
+        Vector2 originLeft = new Vector2(pos.x - 0.5f * scaling + 0.2f , pos.y - (.5f * scaling));
+        Vector2 originMiddle = new Vector2(pos.x, pos.y - (.5f * scaling));
+        Vector2 originRight = new Vector2(pos.x + 0.5f * scaling - 0.2f , pos.y - (.5f * scaling));
 
         RaycastHit2D groundLeft = Physics2D.Raycast(originLeft, Vector2.down, velocity.y * Time.deltaTime, floorMask);
         RaycastHit2D groundMiddle = Physics2D.Raycast(originMiddle, Vector2.down, velocity.y * Time.deltaTime, floorMask);
         RaycastHit2D groundRight = Physics2D.Raycast(originRight, Vector2.down, velocity.y * Time.deltaTime, floorMask);
-
+        Debug.DrawRay(originLeft, Vector3.down, Color.red);
+        Debug.DrawRay(originRight, Vector3.down, Color.red);
+        Debug.DrawRay(originMiddle, Vector3.down, Color.red);
         if (groundLeft.collider != null || groundMiddle.collider != null || groundRight.collider != null)
         {
             RaycastHit2D hitRay = groundLeft;
-
             if (groundLeft)
             {
                 hitRay = groundLeft;
@@ -138,12 +140,12 @@ public class EnemyAI : MonoBehaviour
                 hitRay = groundRight;
             }
 
-            if (hitRay.collider.tag == "Player")
-            {
-                Application.LoadLevel("GameOver");
-            }
+            // if (hitRay.collider.tag == "Player")
+            // {
+            //     Application.LoadLevel("GameOver");
+            // }
 
-            pos.y = hitRay.collider.bounds.center.y + hitRay.collider.bounds.size.y / 2 + .5f;
+            pos.y = hitRay.collider.bounds.center.y + hitRay.collider.bounds.size.y / 2 + .5f * scaling;
 
             grounded = true;
 
@@ -165,14 +167,16 @@ public class EnemyAI : MonoBehaviour
 
     void CheckWalls (Vector3 pos, float direction)
     {
-        Vector2 originTop = new Vector2(pos.x + direction * 0.4f, pos.y + .5f - 0.2f);
+        Vector2 originTop = new Vector2(pos.x + direction * 0.4f, pos.y + .5f * scaling - 0.2f);
         Vector2 originMiddle = new Vector2(pos.x + direction * 0.4f, pos.y);
-        Vector2 originBottom = new Vector2(pos.x + direction * 0.4f, pos.y - .5f + 0.2f);
+        Vector2 originBottom = new Vector2(pos.x + direction * 0.4f, pos.y - .5f * scaling + 0.2f);
 
         RaycastHit2D wallTop = Physics2D.Raycast(originTop, new Vector2(direction, 0), velocity.x * Time.deltaTime, wallMask);
         RaycastHit2D wallMiddle = Physics2D.Raycast(originMiddle, new Vector2(direction, 0), velocity.x * Time.deltaTime, wallMask);
         RaycastHit2D wallBottom = Physics2D.Raycast(originBottom, new Vector2(direction, 0), velocity.x * Time.deltaTime, wallMask);
-
+        Debug.DrawRay(originTop, new Vector2(direction, 0), Color.red);
+        Debug.DrawRay(originBottom, new Vector2(direction, 0), Color.red);
+        Debug.DrawRay(originMiddle, new Vector2(direction, 0), Color.red);
         if (wallTop.collider != null || wallMiddle.collider != null || wallBottom.collider != null)
         {
             RaycastHit2D hitRay = wallTop;
@@ -192,10 +196,10 @@ public class EnemyAI : MonoBehaviour
                 hitRay = wallBottom;
             }
 
-            if (hitRay.collider.tag == "Player")
-            {
-                Application.LoadLevel("GameOver");
-            }
+            // if (hitRay.collider.tag == "Player")
+            // {
+            //     Application.LoadLevel("GameOver");
+            // }
 
             isWalkingLeft = !isWalkingLeft;
         }
