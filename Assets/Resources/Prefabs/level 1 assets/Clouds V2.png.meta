@@ -1,16 +1,25 @@
 fileFormatVersion: 2
-guid: ae4ef9641fc543246b907f6b1ae6f298
+guid: 7dbd131f746ab2a48bf9db2e0ed7e4b5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3214685828008059052
-    second: Decors_0
+      213: 1991833948588684125
+    second: Clouds V2_0
   - first:
-      213: -4213649053517864761
-    second: Decors_1
+      213: -4053539982750107920
+    second: Clouds V2_1
   - first:
-      213: 4249552439732064735
-    second: Decors_2
+      213: -7936898829634126891
+    second: Clouds V2_2
+  - first:
+      213: 5759530782791945932
+    second: Clouds V2_3
+  - first:
+      213: 3125839181209662389
+    second: Clouds V2_4
+  - first:
+      213: 3204778827486154777
+    second: Clouds V2_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -55,7 +64,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -136,13 +145,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Decors_0
+      name: Clouds V2_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 0
-        width: 73
-        height: 100
+        x: 8
+        y: 80
+        width: 60
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,40 +159,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca027ea7abbdc9c20800000000000000
-      internalID: 3214685828008059052
+      spriteID: d53313d4c6a64ab10800000000000000
+      internalID: 1991833948588684125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Decors_1
+      name: Clouds V2_1
       rect:
         serializedVersion: 2
-        x: 114
-        y: 0
-        width: 35
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c028ecb28c1685c0800000000000000
-      internalID: -4213649053517864761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Decors_2
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 0
-        width: 27
+        x: 81
+        y: 84
+        width: 30
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -192,8 +180,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd1df98cd6179fa30800000000000000
-      internalID: 4249552439732064735
+      spriteID: 0f6365dbcdeeeb7c0800000000000000
+      internalID: -4053539982750107920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds V2_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb171e0987ad190800000000000000
+      internalID: -7936898829634126891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds V2_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccecd3d4bb6fdef40800000000000000
+      internalID: 5759530782791945932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds V2_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3fff48c26316b20800000000000000
+      internalID: 3125839181209662389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds V2_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910510c2d59a97c20800000000000000
+      internalID: 3204778827486154777
       vertices: []
       indices: 
       edges: []
