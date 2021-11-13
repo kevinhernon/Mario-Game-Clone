@@ -51,7 +51,7 @@ public class QuestionBlock : MonoBehaviour
 
     void presentCoin ()
     {
-        GameObject spinningCoin = (GameObject)Instantiate(Resources.Load("Prefabs/level 1/Spinning_Coin", typeof(GameObject)));
+        GameObject spinningCoin = (GameObject)Instantiate(Resources.Load("Prefabs/level 1 assets/Spinning_Coin", typeof(GameObject)));
 
         spinningCoin.transform.SetParent(this.transform.parent);
 
