@@ -6,6 +6,7 @@ TagManager:
   tags:
   - QuestionBlock
   - Enemy
+  - Block
   layers:
   - Default
   - TransparentFX

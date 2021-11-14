@@ -1,5 +1,5 @@
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class EnemyAI : MonoBehaviour
 {
 
@@ -15,9 +15,10 @@ public class EnemyAI : MonoBehaviour
     private bool shouldDie = false;
     private float deathTimer = 0;
     public float scaling;
-
     public float timeBeforeDestroy = 1.0f;
-
+    public float volume=0.5f;
+    private AudioSource audioSrc;
+    private AudioClip deathSound;
     private enum EnemyState
     {
         walking,
@@ -30,7 +31,8 @@ public class EnemyAI : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        deathSound = Resources.Load<AudioClip>("enemy_death");
+        audioSrc = GetComponent<AudioSource>();
         enabled = false;
 
         //Fall();
@@ -47,12 +49,13 @@ public class EnemyAI : MonoBehaviour
     public void Crush ()
     {
         state = EnemyState.dead;
-
+        
         GetComponent<Animator>().SetBool("isCrushed", true);
 
         GetComponent<Collider2D>().enabled = false;
 
         shouldDie = true;
+        audioSrc.PlayOneShot(deathSound);
 
     }
 
@@ -140,10 +143,11 @@ public class EnemyAI : MonoBehaviour
                 hitRay = groundRight;
             }
 
-            // if (hitRay.collider.tag == "Player")
-            // {
-            //     Application.LoadLevel("GameOver");
-            // }
+            if (hitRay.collider.tag == "Player")
+            {
+                Scene scene = SceneManager.GetActiveScene();
+                SceneManager.LoadScene(scene.name);
+            }
 
             pos.y = hitRay.collider.bounds.center.y + hitRay.collider.bounds.size.y / 2 + .5f * scaling;
 
@@ -156,10 +160,9 @@ public class EnemyAI : MonoBehaviour
         else
         {
 
-            if (state != EnemyState.walking)
-            {
+ 
                 Fall();
-            }
+            
         }
 
         return pos;
@@ -196,10 +199,11 @@ public class EnemyAI : MonoBehaviour
                 hitRay = wallBottom;
             }
 
-            // if (hitRay.collider.tag == "Player")
-            // {
-            //     Application.LoadLevel("GameOver");
-            // }
+            if (hitRay.collider.tag == "Player")
+            {
+                Scene scene = SceneManager.GetActiveScene();
+                SceneManager.LoadScene(scene.name);
+            }
 
             isWalkingLeft = !isWalkingLeft;
         }
@@ -218,7 +222,7 @@ public class EnemyAI : MonoBehaviour
 
     void Fall()
     {
-        velocity.y = 0;
+        velocity.y = -10;
 
         state = EnemyState.falling;
 

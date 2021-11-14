@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class DogPlayer : MonoBehaviour
 {
+    AudioSource audioSrc;
+    public static AudioClip jumpSound;
     public float jumpVelocity;
     public float bounceVelocity;
     public Vector2 velocity;
@@ -22,6 +24,8 @@ public class DogPlayer : MonoBehaviour
     private bool grounded = false;
     private bool bounce = false;
     void Start(){
+        jumpSound = Resources.Load<AudioClip>("jump");
+        audioSrc = GetComponent<AudioSource>();
     }
     void Update(){
         CheckPlayerInput();
@@ -41,6 +45,7 @@ public class DogPlayer : MonoBehaviour
         Vector3 pos = transform.localPosition;
         Vector3 scale = transform.localScale;
         if (walk){
+            
             if (walk_left){
                 pos.x -= velocity.x * Time.deltaTime;
                 scale.x = -1;
@@ -52,6 +57,7 @@ public class DogPlayer : MonoBehaviour
             pos = CheckWallRays(pos, scale.x);
         }
         if (jump && playerState != PlayerState.jumping){
+            audioSrc.PlayOneShot(jumpSound);
             playerState = PlayerState.jumping;
             velocity = new Vector2(velocity.x, jumpVelocity);
         }
@@ -92,7 +98,7 @@ public class DogPlayer : MonoBehaviour
     void CheckPlayerInput (){
         bool input_left = Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A);
         bool input_right = Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D);
-        bool input_jump = Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W) || Input.GetKeyDown(KeyCode.Space);
+        bool input_jump = Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.Space);
         walk = input_left || input_right;
         walk_left = input_left && !input_right;
         walk_right = !input_left && input_right;
