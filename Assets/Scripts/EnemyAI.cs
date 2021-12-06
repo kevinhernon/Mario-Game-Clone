@@ -15,7 +15,7 @@ public class EnemyAI : MonoBehaviour
     private bool shouldDie = false;
     private float deathTimer = 0;
     public float scaling;
-    public float timeBeforeDestroy = 1.0f;
+    public float timeBeforeDestroy = 1f;
     public float volume=0.5f;
     private AudioSource audioSrc;
     private AudioClip deathSound;

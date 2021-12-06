@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 465540}
   - component: {fileID: 6161992}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Castle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   m_Component:
   - component: {fileID: 449712}
   - component: {fileID: 21226048}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -170,7 +170,7 @@ GameObject:
   m_Component:
   - component: {fileID: 449310}
   - component: {fileID: 21239520}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -252,7 +252,7 @@ GameObject:
   m_Component:
   - component: {fileID: 488692}
   - component: {fileID: 21218594}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -334,7 +334,7 @@ GameObject:
   m_Component:
   - component: {fileID: 409508}
   - component: {fileID: 21220530}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -416,7 +416,7 @@ GameObject:
   m_Component:
   - component: {fileID: 459014}
   - component: {fileID: 21297330}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -498,7 +498,7 @@ GameObject:
   m_Component:
   - component: {fileID: 448760}
   - component: {fileID: 21212698}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -580,7 +580,7 @@ GameObject:
   m_Component:
   - component: {fileID: 435904}
   - component: {fileID: 21211390}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -662,7 +662,7 @@ GameObject:
   m_Component:
   - component: {fileID: 479364}
   - component: {fileID: 21266546}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -744,7 +744,7 @@ GameObject:
   m_Component:
   - component: {fileID: 460208}
   - component: {fileID: 21283760}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -826,7 +826,7 @@ GameObject:
   m_Component:
   - component: {fileID: 448612}
   - component: {fileID: 21258830}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -908,7 +908,7 @@ GameObject:
   m_Component:
   - component: {fileID: 458954}
   - component: {fileID: 21278792}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -990,7 +990,7 @@ GameObject:
   m_Component:
   - component: {fileID: 490226}
   - component: {fileID: 21280826}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1072,7 +1072,7 @@ GameObject:
   m_Component:
   - component: {fileID: 439374}
   - component: {fileID: 21210694}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1154,7 +1154,7 @@ GameObject:
   m_Component:
   - component: {fileID: 490980}
   - component: {fileID: 21281176}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1236,7 +1236,7 @@ GameObject:
   m_Component:
   - component: {fileID: 470588}
   - component: {fileID: 21242210}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1318,7 +1318,7 @@ GameObject:
   m_Component:
   - component: {fileID: 464994}
   - component: {fileID: 21245196}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1400,7 +1400,7 @@ GameObject:
   m_Component:
   - component: {fileID: 474622}
   - component: {fileID: 21242296}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_2 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1482,7 +1482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 460662}
   - component: {fileID: 21243828}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1564,7 +1564,7 @@ GameObject:
   m_Component:
   - component: {fileID: 441842}
   - component: {fileID: 21209024}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1646,7 +1646,7 @@ GameObject:
   m_Component:
   - component: {fileID: 425166}
   - component: {fileID: 21299736}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1728,7 +1728,7 @@ GameObject:
   m_Component:
   - component: {fileID: 431810}
   - component: {fileID: 21214666}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: castle_block_1 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
