@@ -18,7 +18,7 @@ public class SendToEnd : MonoBehaviour
     void OnTriggerEnter2D(Collider2D collision){
         if(collision.tag == ("Player")){
             Scene scene = SceneManager.GetActiveScene();
-            SceneManager.LoadScene("end");
+            SceneManager.LoadScene("End");
         }
     }
 }
