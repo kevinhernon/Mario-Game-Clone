@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Castle : MonoBehaviour
 {
@@ -8,7 +9,8 @@ public class Castle : MonoBehaviour
     {
         if (other.tag == "Player") 
         {
-            Application.LoadLevel("Level 2");
+            Scene scene = SceneManager.GetActiveScene();
+            SceneManager.LoadScene("Level 2");
         }
     }
 }

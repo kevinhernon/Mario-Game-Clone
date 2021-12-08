@@ -8,6 +8,8 @@ TagManager:
   - Enemy
   - Block
   - Ground
+  - Boss
+  - bullet
   layers:
   - Default
   - TransparentFX

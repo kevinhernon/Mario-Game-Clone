@@ -1,15 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class Hole : MonoBehaviour
 {
-
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.tag == "Player")
+        Debug.Log(other.tag);
+        if (other.tag == ("Player"))
         {
-            Application.LoadLevel("GameOver");
+            Scene scene = SceneManager.GetActiveScene();
+            SceneManager.LoadScene(scene.name);
+        }
+        if (other.tag == ("Enemy"))
+        {
+            Destroy(other.gameObject);
         }
     }
   

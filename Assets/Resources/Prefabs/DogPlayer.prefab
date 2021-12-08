@@ -165,8 +165,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41003cca8ffc00f4099cfda32b48e43a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpVelocity: 26
-  bounceVelocity: 30
+  jumpVelocity: 25
+  bounceVelocity: 25
   velocity: {x: 14, y: 0}
   gravity: 40
   wallMask:
