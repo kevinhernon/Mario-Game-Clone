@@ -1,13 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class MadKevinProjectileFire : MonoBehaviour
+public class bossProjectile : MonoBehaviour
 {
     // Start is called before the first frame update
-    AudioSource audioSrc;
-    public static AudioClip explosionSound;
     public float speed;
     private Transform player;
     private Vector2 target;
@@ -16,29 +13,23 @@ public class MadKevinProjectileFire : MonoBehaviour
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         target = new Vector3(player.position.x, player.position.y);
+        Destroy(gameObject, 3);
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position  = Vector2.MoveTowards(transform.position, target, speed * Time.deltaTime);
-        if(transform.position.x == target.x && transform.position.y == target.y){
-            Destroy(gameObject, 5);
-        }   
+        transform.position  += (player.position - transform.position).normalized * speed * Time.deltaTime;
     }
     void OnTriggerEnter2D(Collider2D collision){
+        Debug.Log(collision.tag);
         if(collision.tag == ("Player")){
-            Scene scene = SceneManager.GetActiveScene();
-            SceneManager.LoadScene(scene.name);
             DestroyProjectile();
         }
         if(collision.tag == ("Ground")){
             DestroyProjectile();
         }
-        if(collision.tag == ("QuestionBlock")){
-            DestroyProjectile();
-        }
-        if(collision.tag == ("Block")){
+        if(collision.tag == ("bullet")){
             DestroyProjectile();
         }
     }

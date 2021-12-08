@@ -1,0 +1,3768 @@
+fileFormatVersion: 2
+guid: 98d803817a8ff1b449376656e92bb970
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8005625448091443957
+    second: pixelMart_0
+  - first:
+      213: -353214873328556502
+    second: pixelMart_1
+  - first:
+      213: 1903640772030460680
+    second: pixelMart_2
+  - first:
+      213: -7773446539598324958
+    second: pixelMart_3
+  - first:
+      213: -4753155622689069736
+    second: pixelMart_4
+  - first:
+      213: 2126431008892175121
+    second: pixelMart_5
+  - first:
+      213: 1170530199919600604
+    second: pixelMart_6
+  - first:
+      213: -5257361499511927931
+    second: pixelMart_7
+  - first:
+      213: -5216546935370441692
+    second: pixelMart_8
+  - first:
+      213: 4231807281338859367
+    second: pixelMart_9
+  - first:
+      213: -8964924012726972743
+    second: pixelMart_10
+  - first:
+      213: 4293571831450979032
+    second: pixelMart_11
+  - first:
+      213: 7966023953388597310
+    second: pixelMart_12
+  - first:
+      213: -8819407853070677478
+    second: pixelMart_13
+  - first:
+      213: 21807739747401734
+    second: pixelMart_14
+  - first:
+      213: 3371042302831203063
+    second: pixelMart_15
+  - first:
+      213: 4700663300339812572
+    second: pixelMart_16
+  - first:
+      213: -2997930144237966031
+    second: pixelMart_17
+  - first:
+      213: -429753288811576258
+    second: pixelMart_18
+  - first:
+      213: 4222808711824527867
+    second: pixelMart_19
+  - first:
+      213: 7014355149457136843
+    second: pixelMart_20
+  - first:
+      213: -6545751748049379735
+    second: pixelMart_21
+  - first:
+      213: -4731697519028785272
+    second: pixelMart_22
+  - first:
+      213: -6293391920035660670
+    second: pixelMart_23
+  - first:
+      213: -6459975334160611034
+    second: pixelMart_24
+  - first:
+      213: -3358878122916980151
+    second: pixelMart_25
+  - first:
+      213: 1649821752531146525
+    second: pixelMart_26
+  - first:
+      213: 2602689287104475331
+    second: pixelMart_27
+  - first:
+      213: -2819715224916310888
+    second: pixelMart_28
+  - first:
+      213: 2119348673234203900
+    second: pixelMart_29
+  - first:
+      213: 4362044500610624612
+    second: pixelMart_30
+  - first:
+      213: -5053698595853666117
+    second: pixelMart_31
+  - first:
+      213: -5943360693306743090
+    second: pixelMart_32
+  - first:
+      213: -7789762715887133511
+    second: pixelMart_33
+  - first:
+      213: 5153039931076027952
+    second: pixelMart_34
+  - first:
+      213: 8154357882134869667
+    second: pixelMart_35
+  - first:
+      213: -2149560464634505602
+    second: pixelMart_36
+  - first:
+      213: 880053085494754029
+    second: pixelMart_37
+  - first:
+      213: -5363091222214408236
+    second: pixelMart_38
+  - first:
+      213: -6059682822062416606
+    second: pixelMart_39
+  - first:
+      213: -4760489269155810856
+    second: pixelMart_40
+  - first:
+      213: -3449696090182014489
+    second: pixelMart_41
+  - first:
+      213: -6413814627042207730
+    second: pixelMart_42
+  - first:
+      213: -203563673352176490
+    second: pixelMart_43
+  - first:
+      213: 8849441669889296580
+    second: pixelMart_44
+  - first:
+      213: -5950230992626869902
+    second: pixelMart_45
+  - first:
+      213: 4556674364587650107
+    second: pixelMart_46
+  - first:
+      213: 8350614472143457271
+    second: pixelMart_47
+  - first:
+      213: 3952611467622178566
+    second: pixelMart_48
+  - first:
+      213: 6568771556009276481
+    second: pixelMart_49
+  - first:
+      213: -595205339458915963
+    second: pixelMart_50
+  - first:
+      213: 2705098349629413141
+    second: pixelMart_51
+  - first:
+      213: -2534628459576406114
+    second: pixelMart_52
+  - first:
+      213: 7087537369009718100
+    second: pixelMart_53
+  - first:
+      213: -832208801098167805
+    second: pixelMart_54
+  - first:
+      213: -7755319744660562738
+    second: pixelMart_55
+  - first:
+      213: -7778464859709977998
+    second: pixelMart_56
+  - first:
+      213: -1071632580014138592
+    second: pixelMart_57
+  - first:
+      213: 4725169376772233943
+    second: pixelMart_58
+  - first:
+      213: 5308789224878026180
+    second: pixelMart_59
+  - first:
+      213: 6667979653671696819
+    second: pixelMart_60
+  - first:
+      213: 5913368248054383410
+    second: pixelMart_61
+  - first:
+      213: 2120675262686810468
+    second: pixelMart_62
+  - first:
+      213: -186868263162778147
+    second: pixelMart_63
+  - first:
+      213: 7593697435848435712
+    second: pixelMart_64
+  - first:
+      213: -4828787327721106274
+    second: pixelMart_65
+  - first:
+      213: -3846071212259785437
+    second: pixelMart_66
+  - first:
+      213: -7163182948982331639
+    second: pixelMart_67
+  - first:
+      213: 90506063992794599
+    second: pixelMart_68
+  - first:
+      213: 1042021101773811555
+    second: pixelMart_69
+  - first:
+      213: -9080725004411480203
+    second: pixelMart_70
+  - first:
+      213: -882322280790132948
+    second: pixelMart_71
+  - first:
+      213: 6170392910230536410
+    second: pixelMart_72
+  - first:
+      213: -3622914736622731948
+    second: pixelMart_73
+  - first:
+      213: -4508726077573173832
+    second: pixelMart_74
+  - first:
+      213: 8697546381184882304
+    second: pixelMart_75
+  - first:
+      213: 5206474512225704681
+    second: pixelMart_76
+  - first:
+      213: -205137887157024862
+    second: pixelMart_77
+  - first:
+      213: -1242819367569295621
+    second: pixelMart_78
+  - first:
+      213: -3156602709298595214
+    second: pixelMart_79
+  - first:
+      213: 6137852975736727826
+    second: pixelMart_80
+  - first:
+      213: 120494787805689052
+    second: pixelMart_81
+  - first:
+      213: -6516697020231111053
+    second: pixelMart_82
+  - first:
+      213: -8469298922765737088
+    second: pixelMart_83
+  - first:
+      213: -8410043135520714138
+    second: pixelMart_84
+  - first:
+      213: 7547351634959034269
+    second: pixelMart_85
+  - first:
+      213: 2498667515613260645
+    second: pixelMart_86
+  - first:
+      213: 1266499208258711860
+    second: pixelMart_87
+  - first:
+      213: 1632242958407660671
+    second: pixelMart_88
+  - first:
+      213: -7269333968516648842
+    second: pixelMart_89
+  - first:
+      213: 8854084426342230399
+    second: pixelMart_90
+  - first:
+      213: 6829983364463032996
+    second: pixelMart_91
+  - first:
+      213: 7229367679501219900
+    second: pixelMart_92
+  - first:
+      213: -5423331197573710277
+    second: pixelMart_93
+  - first:
+      213: 2083473199295713304
+    second: pixelMart_94
+  - first:
+      213: 569868169216717158
+    second: pixelMart_95
+  - first:
+      213: 1406252844681331607
+    second: pixelMart_96
+  - first:
+      213: 553291202564285199
+    second: pixelMart_97
+  - first:
+      213: 5501293942746762942
+    second: pixelMart_98
+  - first:
+      213: -1884041992685012828
+    second: pixelMart_99
+  - first:
+      213: 52935224065045293
+    second: pixelMart_100
+  - first:
+      213: 5126209792014109529
+    second: pixelMart_101
+  - first:
+      213: 3445097843291600139
+    second: pixelMart_102
+  - first:
+      213: -7045926935803629042
+    second: pixelMart_103
+  - first:
+      213: -3477664490517380136
+    second: pixelMart_104
+  - first:
+      213: -7285789516438337705
+    second: pixelMart_105
+  - first:
+      213: -7459803095933335832
+    second: pixelMart_106
+  - first:
+      213: -544393495456813803
+    second: pixelMart_107
+  - first:
+      213: -7390081315018217906
+    second: pixelMart_108
+  - first:
+      213: -8887036592356726770
+    second: pixelMart_109
+  - first:
+      213: -5913472768386613109
+    second: pixelMart_110
+  - first:
+      213: 1322394124850848673
+    second: pixelMart_111
+  - first:
+      213: -8988138666422120413
+    second: pixelMart_112
+  - first:
+      213: -1942507137896018214
+    second: pixelMart_113
+  - first:
+      213: -5950951938104229860
+    second: pixelMart_114
+  - first:
+      213: -978037204846237898
+    second: pixelMart_115
+  - first:
+      213: -1689546549107140088
+    second: pixelMart_116
+  - first:
+      213: -6314331642265697148
+    second: pixelMart_117
+  - first:
+      213: -3044405519480363021
+    second: pixelMart_118
+  - first:
+      213: 3919394242108130842
+    second: pixelMart_119
+  - first:
+      213: 6104584373900472926
+    second: pixelMart_120
+  - first:
+      213: 5366214259045331004
+    second: pixelMart_121
+  - first:
+      213: 1339862449463904768
+    second: pixelMart_122
+  - first:
+      213: -7539458717120588621
+    second: pixelMart_123
+  - first:
+      213: 4883668047234849586
+    second: pixelMart_124
+  - first:
+      213: -586984701840363518
+    second: pixelMart_125
+  - first:
+      213: -2065438946631860266
+    second: pixelMart_126
+  - first:
+      213: 2869460474157673284
+    second: pixelMart_127
+  - first:
+      213: 4156712380496669781
+    second: pixelMart_128
+  - first:
+      213: -1239498320182060289
+    second: pixelMart_129
+  - first:
+      213: 6523823681342030589
+    second: pixelMart_130
+  - first:
+      213: 7043085314625837419
+    second: pixelMart_131
+  - first:
+      213: -802080344112227967
+    second: pixelMart_132
+  - first:
+      213: -6976790949256431918
+    second: pixelMart_133
+  - first:
+      213: 723015135908280543
+    second: pixelMart_134
+  - first:
+      213: 5017946684380061381
+    second: pixelMart_135
+  - first:
+      213: 3622292169225185962
+    second: pixelMart_136
+  - first:
+      213: 2691185148876091356
+    second: pixelMart_137
+  - first:
+      213: 7159946939889788686
+    second: pixelMart_138
+  - first:
+      213: 8571689447767097746
+    second: pixelMart_139
+  - first:
+      213: 1018675219500195156
+    second: pixelMart_140
+  - first:
+      213: 3404480216439017190
+    second: pixelMart_141
+  - first:
+      213: 1638564331284936380
+    second: pixelMart_142
+  - first:
+      213: 7160538140963306400
+    second: pixelMart_143
+  - first:
+      213: 1539635207943176658
+    second: pixelMart_144
+  - first:
+      213: 3237200126653442646
+    second: pixelMart_145
+  - first:
+      213: 2502312958782448169
+    second: pixelMart_146
+  - first:
+      213: -6661258036596384999
+    second: pixelMart_147
+  - first:
+      213: -7917411344317341157
+    second: pixelMart_148
+  - first:
+      213: 7041578170969498932
+    second: pixelMart_149
+  - first:
+      213: 6014857808636280092
+    second: pixelMart_150
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixelMart_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 586
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9ea1121e46e090800000000000000
+      internalID: -8005625448091443957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 590
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26edd1b1f0291bf0800000000000000
+      internalID: -353214873328556502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 588
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80373dc32371b6a10800000000000000
+      internalID: 1903640772030460680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 585
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b90c6ce8b2f1490800000000000000
+      internalID: -7773446539598324958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 583
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a77bf426690eb0800000000000000
+      internalID: -4753155622689069736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 586
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113c46c7cb9928d10800000000000000
+      internalID: 2126431008892175121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 584
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3231dd30f8e3010800000000000000
+      internalID: 1170530199919600604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 583
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc6c522991a07b0800000000000000
+      internalID: -5257361499511927931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 582
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c9713633a1b97b0800000000000000
+      internalID: -5216546935370441692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 582
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f3d122d466aba30800000000000000
+      internalID: 4231807281338859367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 583
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be0a0fcb11369380800000000000000
+      internalID: -8964924012726972743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 585
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da424715d4d59b30800000000000000
+      internalID: 4293571831450979032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 586
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30fafd64900d8e60800000000000000
+      internalID: 7966023953388597310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 533
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a8e6ce84b2b9580800000000000000
+      internalID: -8819407853070677478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 533
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008ff4160a7d4000800000000000000
+      internalID: 21807739747401734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 531
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f291172d1958ce20800000000000000
+      internalID: 3371042302831203063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 535
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd84871dd5c1c3140800000000000000
+      internalID: 4700663300339812572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 536
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da243ea663566d0800000000000000
+      internalID: -2997930144237966031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 532
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34845729a5390af0800000000000000
+      internalID: -429753288811576258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 536
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1d9b6662e6a9a30800000000000000
+      internalID: 4222808711824527867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_20
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 534
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc13d348def75160800000000000000
+      internalID: 7014355149457136843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 534
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96edf9d4771d825a0800000000000000
+      internalID: -6545751748049379735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 535
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f21b11d22a55eb0800000000000000
+      internalID: -4731697519028785272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 532
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf5fd746169a8a0800000000000000
+      internalID: -6293391920035660670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_24
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 532
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294295f8ae8956a0800000000000000
+      internalID: -6459975334160611034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 534
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ad3bfa42ed261d0800000000000000
+      internalID: -3358878122916980151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 483
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17d45e842855e610800000000000000
+      internalID: 1649821752531146525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 480
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0b392fd1c9e1420800000000000000
+      internalID: 2602689287104475331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 480
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8944a1341fb5ed8d0800000000000000
+      internalID: -2819715224916310888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 479
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f157b360796d10800000000000000
+      internalID: 2119348673234203900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 479
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca759bc58198c30800000000000000
+      internalID: 4362044500610624612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 480
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8704817e7add9b0800000000000000
+      internalID: -5053698595853666117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 479
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ae6f40f0f48da0800000000000000
+      internalID: -5943360693306743090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 486
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc17f2f41435e390800000000000000
+      internalID: -7789762715887133511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 485
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a03de386438740800000000000000
+      internalID: 5153039931076027952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 485
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63e084a491a2170800000000000000
+      internalID: 8154357882134869667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 479
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769c32752a3b22e0800000000000000
+      internalID: -2149560464634505602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_37
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 480
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deab6685e93963c00800000000000000
+      internalID: 880053085494754029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_38
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 480
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d705e1c2f87295b0800000000000000
+      internalID: -5363091222214408236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 432
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dde63349ea7eba0800000000000000
+      internalID: -6059682822062416606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 430
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b8ea5b385fedb0800000000000000
+      internalID: -4760489269155810856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 431
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a5a9eea73020d0800000000000000
+      internalID: -3449696090182014489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 430
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d1fb149d8df6a0800000000000000
+      internalID: -6413814627042207730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 431
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7ba8eaebcc2df0800000000000000
+      internalID: -203563673352176490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 438
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c88a4aff488fca70800000000000000
+      internalID: 8849441669889296580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 432
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27994f810788c6da0800000000000000
+      internalID: -5950230992626869902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 436
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c206a313f8c3f30800000000000000
+      internalID: 4556674364587650107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 431
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbc8547e9753e370800000000000000
+      internalID: 8350614472143457271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_48
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 431
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f51ce103f7ad630800000000000000
+      internalID: 3952611467622178566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_49
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 431
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447f966de6f82b50800000000000000
+      internalID: 6568771556009276481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_50
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 427
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581b225b5e76db7f0800000000000000
+      internalID: -595205339458915963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_51
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 428
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171824ed907a8520800000000000000
+      internalID: 2705098349629413141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_52
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 428
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f4a5558d033dcd0800000000000000
+      internalID: -2534628459576406114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 375
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453812c8fadfb5260800000000000000
+      internalID: 7087537369009718100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 375
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a079f21866374f0800000000000000
+      internalID: -832208801098167805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 376
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc1feb18c19f5490800000000000000
+      internalID: -7755319744660562738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_56
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 375
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ac0231c675d0490800000000000000
+      internalID: -7778464859709977998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_57
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 377
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b9582a8dbc021f0800000000000000
+      internalID: -1071632580014138592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_58
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 375
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da101e538c239140800000000000000
+      internalID: 4725169376772233943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_59
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 379
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda6404cab9ca940800000000000000
+      internalID: 5308789224878026180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_60
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 377
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b932a2aa2c698c50800000000000000
+      internalID: 6667979653671696819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 380
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330b5b5711801250800000000000000
+      internalID: 5913368248054383410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_62
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 377
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d7646ae62e6d10800000000000000
+      internalID: 2120675262686810468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_63
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 375
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd63620e4c186df0800000000000000
+      internalID: -186868263162778147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_64
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 375
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0086a83b59b326960800000000000000
+      internalID: 7593697435848435712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_65
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 376
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94964b6283bcfcb0800000000000000
+      internalID: -4828787327721106274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 325
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325466c1c9200aac0800000000000000
+      internalID: -3846071212259785437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 324
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907e5c06f03479c90800000000000000
+      internalID: -7163182948982331639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_68
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 325
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed2f4229ca814100800000000000000
+      internalID: 90506063992794599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 323
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f60b3dba0067e00800000000000000
+      internalID: 1042021101773811555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 323
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577db0168b8caf180800000000000000
+      internalID: -9080725004411480203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_71
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 326
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2777147f8c51c3f0800000000000000
+      internalID: -882322280790132948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_72
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 325
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad041e2e8a3a1a550800000000000000
+      internalID: 6170392910230536410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_73
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 327
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df218fd32d8bdc0800000000000000
+      internalID: -3622914736622731948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_74
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 327
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde5bc4589cd61c0800000000000000
+      internalID: -4508726077573173832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_75
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 327
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08652042a54e3b870800000000000000
+      internalID: 8697546381184882304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_76
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 327
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea9659dbfc114840800000000000000
+      internalID: 5206474512225704681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_77
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 327
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a70802bd24372df0800000000000000
+      internalID: -205137887157024862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_78
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 324
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf67e04be5e90cee0800000000000000
+      internalID: -1242819367569295621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_79
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 272
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab83f6f8e7134d0800000000000000
+      internalID: -3156602709298595214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 277
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219ac5ef2c80e2550800000000000000
+      internalID: 6137852975736727826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 273
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b1700f551ca100800000000000000
+      internalID: 120494787805689052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_82
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 271
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2748469a0095a0800000000000000
+      internalID: -6516697020231111053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_83
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 272
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08323f38081077a80800000000000000
+      internalID: -8469298922765737088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_84
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 276
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66253999356894b80800000000000000
+      internalID: -8410043135520714138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_85
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 274
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9762bc03549db860800000000000000
+      internalID: 7547351634959034269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_86
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 271
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bafefeddc0da220800000000000000
+      internalID: 2498667515613260645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_87
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 272
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f298d152839110800000000000000
+      internalID: 1266499208258711860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_88
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 271
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74750b9254e6a610800000000000000
+      internalID: 1632242958407660671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_89
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 272
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67072ec25432e1b90800000000000000
+      internalID: -7269333968516648842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_90
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 271
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796273ffd600ea70800000000000000
+      internalID: 8854084426342230399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 219
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa75a4eea9f8ce50800000000000000
+      internalID: 6829983364463032996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 219
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383c570a9fd35460800000000000000
+      internalID: 7229367679501219900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_93
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 223
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e335582057cb4b0800000000000000
+      internalID: -5423331197573710277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 219
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810511706dbf9ec10800000000000000
+      internalID: 2083473199295713304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_95
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 219
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f6f2a41498e700800000000000000
+      internalID: 569868169216717158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 219
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7930d97f283048310800000000000000
+      internalID: 1406252844681331607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_97
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 219
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f036132da6fada700800000000000000
+      internalID: 553291202564285199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_98
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 220
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebecd6e91b5885c40800000000000000
+      internalID: 5501293942746762942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 219
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8371c2ac98ad5e0800000000000000
+      internalID: -1884041992685012828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_100
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 220
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b08a4e401cb000800000000000000
+      internalID: 52935224065045293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_101
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 223
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b412165a4f32740800000000000000
+      internalID: 5126209792014109529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_102
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 221
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b053cdd4c327fcf20800000000000000
+      internalID: 3445097843291600139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_103
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 172
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02711668c6d73e90800000000000000
+      internalID: -7045926935803629042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 169
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c8b2429adcbfc0800000000000000
+      internalID: -3477664490517380136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_105
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7578d6c590da3ea90800000000000000
+      internalID: -7285789516438337705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_106
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c884ab94797890800000000000000
+      internalID: -7459803095933335832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_107
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 167
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d634d000de178f0800000000000000
+      internalID: -544393495456813803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 169
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e466615c238217990800000000000000
+      internalID: -7390081315018217906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_109
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 169
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08eda60e47eaa480800000000000000
+      internalID: -8887036592356726770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_110
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 168
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ce5b19df1feda0800000000000000
+      internalID: -5913472768386613109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_111
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 169
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36cc043761a5210800000000000000
+      internalID: 1322394124850848673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_112
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 167
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320d4fb0187b34380800000000000000
+      internalID: -8988138666422120413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_113
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 168
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade0c08cc04da05e0800000000000000
+      internalID: -1942507137896018214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_114
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 171
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1000e5edb8f96da0800000000000000
+      internalID: -5950951938104229860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 122
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637260418505d62f0800000000000000
+      internalID: -978037204846237898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_116
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 115
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a5bfc7d568d88e0800000000000000
+      internalID: -1689546549107140088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_117
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 122
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848ebc73dcfe58a0800000000000000
+      internalID: -6314331642265697148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_118
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 116
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7622b5f4910c5d0800000000000000
+      internalID: -3044405519480363021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_119
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 116
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16019f1c4c746630800000000000000
+      internalID: 3919394242108130842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_120
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 119
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52fcb30527d7b450800000000000000
+      internalID: 6104584373900472926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_121
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 120
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30780bef6f987a40800000000000000
+      internalID: 5366214259045331004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_122
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 115
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4e248cc5289210800000000000000
+      internalID: 1339862449463904768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_123
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 115
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41e471e367e5790800000000000000
+      internalID: -7539458717120588621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_124
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 115
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bdb54d63646c340800000000000000
+      internalID: 4883668047234849586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_125
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 115
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200773e068c9ad7f0800000000000000
+      internalID: -586984701840363518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_126
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 115
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df30c0a8361653e0800000000000000
+      internalID: -2065438946631860266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_127
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 63
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2133291f52d720800000000000000
+      internalID: 2869460474157673284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_128
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 69
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce8f803eb9fa930800000000000000
+      internalID: 4156712380496669781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_129
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffadadd48da6ccee0800000000000000
+      internalID: -1239498320182060289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_130
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df24cafc217498a50800000000000000
+      internalID: 6523823681342030589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_131
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 67
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b691b0d17c01eb160800000000000000
+      internalID: 7043085314625837419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_132
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1891ed73d207ed4f0800000000000000
+      internalID: -802080344112227967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_133
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 63
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6f865a8957d2f90800000000000000
+      internalID: -6976790949256431918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_134
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 65
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd83b077f6aa80a00800000000000000
+      internalID: 723015135908280543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_135
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 65
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce92585ce353a540800000000000000
+      internalID: 5017946684380061381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_136
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 63
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa8534987f44230800000000000000
+      internalID: 3622292169225185962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_137
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 63
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfe09762a2095520800000000000000
+      internalID: 2691185148876091356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_138
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 64
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07a6ca8ecd3d5360800000000000000
+      internalID: 7159946939889788686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_139
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 17
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914f135322c4f670800000000000000
+      internalID: 8571689447767097746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5dc707bf032e00800000000000000
+      internalID: 1018675219500195156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_141
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 12
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee41b918b42f3f20800000000000000
+      internalID: 3404480216439017190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_142
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb63ddbe3995db610800000000000000
+      internalID: 1638564331284936380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_143
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 15
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf0c440875f5360800000000000000
+      internalID: 7160538140963306400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_144
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 17
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d143257012ed5510800000000000000
+      internalID: 1539635207943176658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_145
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 15
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a27002d58dcec20800000000000000
+      internalID: 3237200126653442646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_146
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 15
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922a511d0600ab220800000000000000
+      internalID: 2502312958782448169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_147
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 13
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd47bcb157e83a0800000000000000
+      internalID: -6661258036596384999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_148
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 11
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b122151a454bf1290800000000000000
+      internalID: -7917411344317341157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_149
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 17
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43528c2e906b8b160800000000000000
+      internalID: 7041578170969498932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelMart_150
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 16
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dff321f41197350800000000000000
+      internalID: 6014857808636280092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

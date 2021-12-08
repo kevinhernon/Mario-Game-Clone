@@ -23,6 +23,8 @@ public class DogPlayer : MonoBehaviour
     private PlayerState playerState = PlayerState.idle;
     private bool grounded = false;
     private bool bounce = false;
+    public float timeBetweenShots = 0.3f;
+    private float cooldownShots;
     void Start(){
         jumpSound = Resources.Load<AudioClip>("jump");
         audioSrc = GetComponent<AudioSource>();
@@ -31,7 +33,7 @@ public class DogPlayer : MonoBehaviour
         CheckPlayerInput();
         UpdatePlayerPosition();
         UpdateAnimationState();
-        if (Input.GetKeyUp(KeyCode.LeftShift)){
+        if (Time.time >= cooldownShots && (Input.GetKeyUp(KeyCode.LeftShift))){
             GameObject r = Instantiate(projectile, firePosition.position, firePosition.transform.rotation);
             if (transform.localScale.x == 1){
                 r.GetComponent<Rigidbody2D>().velocity = new Vector3(projectileSpeed, 0 , 0);
@@ -39,6 +41,7 @@ public class DogPlayer : MonoBehaviour
             if (transform.localScale.x == -1){
                 r.GetComponent<Rigidbody2D>().velocity = new Vector3(-projectileSpeed, 0 , 0);
             }
+            cooldownShots = Time.time + timeBetweenShots;
         }
     }
     void UpdatePlayerPosition (){
